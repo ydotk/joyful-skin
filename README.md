@@ -1,5 +1,6 @@
-# joyful-skin
-Skin for SUSPlayer
+# ![Joyful Skin](https://raw.githubusercontent.com/ydotk/joyful-skin/master/logo.png "Joyful Skin")
+
+Free-to-use skin for SUSPlayer
 
 Unfinished, some parts are from the Default Skin
 
