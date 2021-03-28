@@ -4,8 +4,7 @@ Free-to-use skin for SUSPlayer
 
 Unfinished, some parts are from the Default Skin
 
-The main font used is ["Raleway"](http://https://fonts.google.com/specimen/Raleway "Raleway Extra Bold")
+The main font used is ["Raleway"](http://https://fonts.google.com/specimen/Raleway)
 
-Please do not use for commercial purposes. 
-
-営利目的での使用はご遠慮ください。
+Please do not use for commercial purposes (such as streaming) without proper credit.
+営利目的（ストリーミングなど）での使用は、適切なクレジットを表示してからにしてください。
