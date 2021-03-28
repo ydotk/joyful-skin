@@ -6,5 +6,5 @@ Unfinished, some parts are from the Default Skin
 
 The main font used is ["Raleway"](http://https://fonts.google.com/specimen/Raleway)
 
-Please do not use for commercial purposes (such as streaming) without proper credit.<br>
-営利目的（ストリーミングなど）での使用は、適切なクレジットを表示してからにしてください。
+Please do not use for videos and livestreams without credit.<br>
+クレジット表記のない動画やライブ配信への使用はご遠慮ください。
